@@ -33,7 +33,7 @@ HUVEC | H3K9me1 | HuvecH3k9me1StdAlnRep1.bam | HuvecControlStdAlnRep2.bam
 HUVEC | H3K27me3 | HuvecH3k27me3StdAlnRep1.bam | HuvecControlStdAlnRep2.bam
 
 ### ChromHMM
-
+|   |   |
 |---|---|
 ![image](https://github.com/silva08/hse_hw3_chromhmm/raw/main/data/1.png) | ![image](https://github.com/silva08/hse_hw3_chromhmm/raw/main/data/2.png) 
  ![image](https://github.com/silva08/hse_hw3_chromhmm/raw/main/data/3.png) | ![image](https://github.com/silva08/hse_hw3_chromhmm/raw/main/data/4.png) 
@@ -43,7 +43,9 @@ HUVEC | H3K27me3 | HuvecH3k27me3StdAlnRep1.bam | HuvecControlStdAlnRep2.bam
 
 
 ### Эпигенетические типы
- ![image](https://github.com/silva08/hse_hw3_chromhmm/raw/main/data/6.png)
+![image](https://github.com/silva08/hse_hw3_chromhmm/raw/main/data/6.png)
+|Гистоновая метка|Тип|
+|---|---|
 H3K36me3 | Transcriptional transition, transcriptional elongation(weak promoter, weak enhancer)
 H4k20me1 | Weak promoter, Transcriptional transition, Reperirive CNV(weak transcribed чуть-чуть)
 H3K27ac | Active promoter, Strong enhancer(transcriptional transition, transcriptional elongation)
